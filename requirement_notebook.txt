@@ -15,3 +15,5 @@ spacy
 scipy
 selenium
 faker
+evaluate
+ipywidgets
