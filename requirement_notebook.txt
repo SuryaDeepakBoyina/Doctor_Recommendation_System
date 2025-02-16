@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+seaborn
+torch
+transformers
+nltk
+huggingface_hub
+datasets
+beautifulsoup4
+requests
+scikit-learn
+textacy
+spacy
+scipy
+selenium
+faker
